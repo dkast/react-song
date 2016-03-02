@@ -1,0 +1,89 @@
+@import '../node_modules/semantic-ui-less/semantic.less';
+
+@type    : 'global';
+@element : 'site';
+
+@import (multiple) '../node_modules/semantic-ui-less/theme.config';
+
+/*Local vars*/
+@sidebar : #161616;
+@sidebarWidth: 250;
+
+/*Custom css */
+#search-container {
+	@media screen {
+		width: 600px;
+		margin: 0 0 0 -300px;
+		@media (max-width: @tabletBreakpoint) {
+			width: 90%;
+			margin: 0 0 0 -45%;
+		}
+	}
+	top: 40%;
+	left: 50%;
+	position: absolute;
+}
+
+#wrapper {
+	/*overflow: hidden;*/
+}
+
+#sidebar {
+	/*width: unit(@sidebarWidth, px);*/
+	width: 100%;
+	position: fixed;
+	/*top: 0;*/
+	bottom: 0;
+	background-color: @sidebar;
+	z-index: 9999;
+}
+
+#content {
+	/*margin-left: unit(@sidebarWidth, px);*/
+	padding: 0 3rem 6rem 3rem;
+}
+
+#media-player {
+	position: relative;
+	overflow: hidden;	
+	color: white;
+	visibility: visible !important;
+
+	.title {
+		padding: 1.5rem 1rem 1rem 1rem;
+	}
+
+	.truncated {
+		width: unit(@sidebarWidth - (@emSize * 2), px);
+	}
+
+	.row {
+		padding: 0;
+	}
+
+	.tiny.image {
+		width: 40px;
+	}
+}
+
+#controls {
+	padding-top: 1.8rem;
+}
+
+#cover-background {
+	position: absolute;
+	top: -50%;
+	left: 0;
+	width: 200%;
+	/*opacity: 0.5;*/
+	-webkit-filter: blur(50px);
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
+.truncated {
+	display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}

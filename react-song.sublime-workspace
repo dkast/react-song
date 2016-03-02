@@ -1,0 +1,1120 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sst	React: this.setState(…)"
+			],
+			[
+				"pr",
+				"props	React: this.props"
+			],
+			[
+				"h",
+				"handlePlayButtonClick"
+			],
+			[
+				"ME",
+				"MediaPlayerControls"
+			],
+			[
+				"im",
+				"imageUrl"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"ar",
+				"artworkURL"
+			],
+			[
+				"Co",
+				"CoverArt"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"cur",
+				"currentTime"
+			],
+			[
+				"hand",
+				"handleLoadedMetadata"
+			],
+			[
+				"cu",
+				"currentTrack"
+			],
+			[
+				"prev",
+				"prevProps"
+			],
+			[
+				"for",
+				"formatSeconds"
+			],
+			[
+				"handl",
+				"handleTimeUpdate"
+			],
+			[
+				"c",
+				"cwun	React: componentWillUnmount() {…}"
+			],
+			[
+				"cd",
+				"cdup	React: componentDidUpdate(pp, ps) {…}"
+			],
+			[
+				"a",
+				"artworkURL"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"side",
+				"sidebarWidth"
+			],
+			[
+				"ima",
+				"imageUrl"
+			],
+			[
+				"is",
+				"isPlaying"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tit",
+				"titleArray"
+			],
+			[
+				"i",
+				"isFetching"
+			],
+			[
+				"Sear",
+				"SearchResults"
+			],
+			[
+				"render",
+				"renderSearchResults"
+			],
+			[
+				"sea",
+				"searchTerm"
+			],
+			[
+				"crea",
+				"createStoreWithMiddleware"
+			],
+			[
+				"cre",
+				"createStore"
+			],
+			[
+				"lea",
+				"leaveAnimation"
+			],
+			[
+				"enter",
+				"enterAnimation"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"ea",
+				"ease-out"
+			],
+			[
+				"vel",
+				"VelocityHelpers"
+			],
+			[
+				"se",
+				"searchTerm"
+			],
+			[
+				"mai",
+				"mailAdd"
+			],
+			[
+				"O",
+				"OUTPUT"
+			],
+			[
+				"tt-login",
+				"tt-login-time"
+			],
+			[
+				"tt-pr",
+				"tt-program"
+			],
+			[
+				"tt-p",
+				"tt-prog-name"
+			],
+			[
+				"last",
+				"last_prev_acum"
+			],
+			[
+				"NO",
+				"NO-UNDO"
+			],
+			[
+				"su",
+				"substr"
+			],
+			[
+				"rrc",
+				"rrc_cta_proy"
+			],
+			[
+				"no-",
+				"no-undo"
+			],
+			[
+				"no",
+				"no-lock"
+			],
+			[
+				"req",
+				"req_site"
+			],
+			[
+				"glo",
+				"global_domain"
+			],
+			[
+				"GLO",
+				"global_userid"
+			],
+			[
+				"rr_",
+				"rr_status"
+			],
+			[
+				"code",
+				"code_mstr"
+			],
+			[
+				"d",
+				"dcastillejo"
+			],
+			[
+				"rr",
+				"rr_acct"
+			],
+			[
+				"V",
+				"VAR"
+			],
+			[
+				"ema",
+				"email_fin"
+			],
+			[
+				"var",
+				"VAR"
+			],
+			[
+				"art",
+				"artic"
+			],
+			[
+				"temp",
+				"temp_det"
+			],
+			[
+				"tem",
+				"temp_mstr"
+			],
+			[
+				"acm",
+				"acm_raw"
+			],
+			[
+				"ac",
+				"acm_raw"
+			],
+			[
+				"sch_fa",
+				"sch_fab_end"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"schd_cr",
+				"schd_scr_pct"
+			],
+			[
+				"ttap",
+				"tta_pct"
+			],
+			[
+				"tta_",
+				"tta_abc"
+			],
+			[
+				"to",
+				"totwt"
+			],
+			[
+				"ttc_pt",
+				"ttc_ptwt"
+			],
+			[
+				"tta",
+				"tta_part"
+			],
+			[
+				"ttc_ptri",
+				"ttc_ptri_h"
+			],
+			[
+				"ttc_ptp",
+				"ttc_ptpn_h"
+			],
+			[
+				"tc_ptto",
+				"ttc_pttot_h"
+			],
+			[
+				"fin",
+				"fini"
+			],
+			[
+				"as",
+				"assign"
+			],
+			[
+				"de",
+				"def	define variable"
+			],
+			[
+				"firs",
+				"first-of"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/containers/App.js",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1866,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ug",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"t",
+				"Themr: List themes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"shcm",
+				"Schemr: List all schemes"
+			],
+			[
+				"wi",
+				"SFTP: Browse With WinSCP"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"schm",
+				"Schemr: List all schemes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"win",
+				"SFTP: Browse With WinSCP"
+			],
+			[
+				"brow",
+				"SFTP: Browse With WinSCP"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col	",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_input(False)",
+			"sublime.log_input(True)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/terminal/WOS/www/react-song"
+	],
+	"file_history":
+	[
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/terminal/WOS/www/react-song/style/style.less",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/themes/default/globals/site.variables",
+		"/C/terminal/WOS/www/react-song/src/components/MediaPlayer.js",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/terminal/WOS/www/react-song/src/components/SearchResults.js",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/react_setState.sublime-snippet",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/README.md",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/package-metadata.json",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Babel Snippets/.no-sublime-package",
+		"/C/terminal/WOS/www/react-song/src/components/CardItem.js",
+		"/C/terminal/WOS/www/react-song/webpack.config.dev.js",
+		"/C/terminal/WOS/www/react-song/src/reducers/index.js",
+		"/C/terminal/WOS/www/react-song/src/actions/index.js",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/theme.config",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/site/globals/site.variables",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/package.js",
+		"/C/terminal/WOS/www/react-song/style/custom.less",
+		"/C/terminal/WOS/www/react-song/src/components/Sidebar.js",
+		"//133.2.3.71/Inetpub/wwwroot/portal/Default.aspx",
+		"//133.2.3.71/Inetpub/wwwroot/portal/StyleSheet11112015.css",
+		"/C/terminal/WOS/www/react-song/src/components/Search.js",
+		"/C/terminal/WOS/www/react-song/index.html",
+		"/C/terminal/WOS/www/react-song/src/lib/utils.js",
+		"//133.2.2.247/inetpub/wwwroot/ricms/MasterPage.master",
+		"//133.2.2.247/inetpub/wwwroot/ricms/admSecurity.aspx",
+		"//133.2.3.113/inetpub/wwwroot/visitas/rassini/TreeView.rassini.css",
+		"/C/Users/d_castillejof/AppData/Local/Temp/Rar$DI00.826/TreeView.rassini.css",
+		"/C/Users/d_castillejof/AppData/Local/Temp/Rar$DI00.438/TreeView.rassini.css",
+		"/C/terminal/WOS/www/react-song/src/store/configureStore.js",
+		"/C/terminal/WOS/www/react-song/src/components/Cover.js",
+		"/C/terminal/WOS/www/react-song/src/components/test.js",
+		"/C/terminal/WOS/www/react-song/src/routes.js",
+		"/C/terminal/WOS/www/react-song/src/containers/App.js",
+		"/C/terminal/WOS/www/react-song/package.json",
+		"/C/terminal/WOS/www/react-song/src/lib/promiseMiddleware.js",
+		"/C/terminal/WOS/www/react-song/src/index.js",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/definitions/collections/grid.less",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/semantic.less",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/themes/default/elements/icon.variables",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/theme.less",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/site/elements/icon.variables",
+		"/C/terminal/WOS/www/react-song/node_modules/semantic-ui-less/definitions/elements/icon.less",
+		"/C/terminal/WOS/www/react-song/devServer.js",
+		"/C/terminal/WOS/www/react-song/src/App.js",
+		"/C/terminal/WOS/www/react-song/webpack.config.prod.js",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/terminal/WOS/www/react-song/src/colors.js",
+		"/C/terminal/WOS/www/react-song/.gitignore",
+		"/C/terminal/WOS/www/react-song/dist/bundle.js",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"//bsdev_net/WRK/accesos_test/bitacora.html",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1447094847/QAD/qad2011/custom/xxsrc/xxpout021.p",
+		"//133.2.3.113/wrk/proxies/sessionQAD/getQADSessions.p",
+		"//133.2.3.99/siedtest/asnEdit_Detail.aspx.vb",
+		"//133.2.2.247/inetpub/wwwroot/ricms/web.config",
+		"/C/FTP/QAD/sesiones_mon.p",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1443536176/QAD/u/rosyo/opciones/sesiones.p",
+		"//133.2.3.99/siedtest/settings.config",
+		"/C/FTP/P-UNIX/getQADSessions.p",
+		"//133.2.3.113/wrk/proxies/asn_getOrdenesProv.p",
+		"/C/FTP/P-UNIX/pemb/xxso129p1.p",
+		"/C/FTP/P-UNIX/edi/xxedmt028c.i",
+		"/C/FTP/P-UNIX/edi/xxedut008b.p",
+		"/C/FTP/P-UNIX/pemb/xxso129p5.p",
+		"/C/FTP/P-UNIX/pemb/xxsomt129c.p",
+		"/C/FTP/P-UNIX/edi/xxedmt028.p",
+		"/C/FTP/P-UNIX/edi/xxedut007.p",
+		"/C/FTP/P-UNIX/pemb/xxedut008b.p",
+		"/C/FTP/P-UNIX/compila2.p",
+		"/C/FTP/P-UNIX/pemb/xxsomt128.p",
+		"//133.2.3.99/sied/Consulta_FacturasProv.aspx.vb",
+		"//133.2.3.99/siedtest/Consulta_FacturasProv.aspx.vb",
+		"//133.2.3.99/sied/SubeFacturasv2.aspx.vb",
+		"/C/FTP/P-UNIX/sftp-config.json",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/tagComments.sublime-snippet",
+		"/C/FTP/QAD/req/xxpomt073.p",
+		"/C/FTP/856termaEKI_Posicional.txt",
+		"/C/FTP/P-UNIX/req/xxpomt026zz.p",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Progress ABL/for_each.sublime-snippet",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Progress ABL/comment.sublime-snippet",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Progress ABL/find.sublime-snippet",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/Progress ABL/Comments.tmPreferences",
+		"/C/FTP/P-UNIX/req/xxpout003a.p",
+		"/C/FTP/P-UNIX/req/presp_cron.p",
+		"//133.2.3.71/Inetpub/wwwroot/apqptest/DlgUserAdminAdd.aspx.vb",
+		"//133.2.3.71/Inetpub/wwwroot/apqp.net/DlgUserAdminAdd.aspx.vb",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1438011868/P-UNIX/qadEE/custom/xxsrc/xxpout003a.p",
+		"/C/terminal/cmder/config/aliases",
+		"/C/Users/d_castillejof/AppData/Local/Temp/Rar$DI05.907/aliases",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"//133.2.22.150/sied/SubeFacturasv2.aspx.vb",
+		"//133.2.22.150/sied/SubeFacturasCFDI.aspx.vb",
+		"//133.2.3.99/sied/SubeFacturasCFDI.aspx.vb",
+		"//133.2.3.99/siedtest/SubeFacturasCFDI.aspx.vb",
+		"//133.2.3.99/siedtest/SubeFacturasv2.aspx.vb",
+		"/C/FTP/P-UNIX/req/xxpout022.i",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1436889933/P-UNIX/qadEE/custom/xxsrc/xxpout022.i",
+		"/C/FTP/P-UNIX/pdp/wo_turpq1c.p",
+		"/C/FTP/QAD/pdp/wo_turhtcc.p",
+		"/C/FTP/P-UNIX/scrap/rsrp058.i",
+		"/C/FTP/P-UNIX/scrap/rsrp058a.p",
+		"/C/FTP/P-UNIX/scrap/rsrp057.p",
+		"/C/FTP/P-UNIX/scrap/xxrsrp059.i",
+		"/C/FTP/P-UNIX/scrap/xxrsrp059.p",
+		"/C/FTP/P-UNIX/scrap/rsrp057zx.p",
+		"//133.2.3.71/Inetpub/wwwroot/portal_test/Default.aspx",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1429831050/QAD/qad2011/custom/cstm/rsrp057a.p",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1429831070/QAD/qad2011/custom/cstm/rsrp057.i",
+		"/C/users/d_cast~1/appdata/local/temp/sublime-sftp-browse-1429720308/QAD/qad2011/custom/xxsrc/xxrsrp057zx.p",
+		"/C/FTP/QAD/piso/xxwomt240.p",
+		"/C/FTP/QAD/cob/xxicrp197.p",
+		"/C/FTP/QAD/edi/rsrp057zx.p",
+		"/C/terminal/WOS/www/cc_react/Hello.html",
+		"/C/FTP/QAD/sftp-config.json",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/QAD",
+		"/C/Users/d_castillejof/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.default-config",
+		"/C/FTP/QAD/tablas/sch_mstr.txt",
+		"//133.2.3.99/siedtest/Logon.aspx",
+		"//133.2.3.99/sied/Logon.aspx",
+		"//133.2.3.99/siedtest/Logon.aspx.vb",
+		"//133.2.3.99/sied/Logon.aspx.vb",
+		"//133.2.3.71/Inetpub/wwwroot/apqp.net/App_Code/rutinas.vb",
+		"//133.2.3.71/Inetpub/wwwroot/apqp.net/ResetPassword.aspx.vb",
+		"//133.2.3.71/Inetpub/wwwroot/metricas_test/frmEGEDisp.aspx"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"replace",
+			"isFetching",
+			"items",
+			"addEventListener",
+			"audio",
+			"addEventListener",
+			"span",
+			"basic",
+			"h3",
+			"item",
+			"songs",
+			"src",
+			"@src",
+			"@font",
+			"rr_next_apr",
+			"notificaUsuarioReq",
+			"send",
+			"vr_dominio",
+			"site",
+			"notifi",
+			"dominio",
+			"dom",
+			"level",
+			"notificaUsuarioReq",
+			"rr_next_apr",
+			"notificaUsuarioReq",
+			"notifica",
+			"FIND",
+			"fopcion",
+			".\n",
+			"schtype",
+			"1267",
+			"c_part",
+			"nvo",
+			"pembd_pal",
+			"calcula_camion_tiempo",
+			"calcula_camion_ranes",
+			"req",
+			"pembd_pal",
+			"cn_mult",
+			"con_det",
+			"plant",
+			"xpp_plant",
+			"xxso29p5",
+			"first-of",
+			"xxso129p1.p",
+			"xxso129p5",
+			"last_rec",
+			"last_acum",
+			"userid",
+			"REFHC",
+			"cold",
+			"po",
+			"bol",
+			"cold",
+			"wt",
+			"cold",
+			"FDCF",
+			"ctai",
+			"dias",
+			"su requi",
+			"email",
+			"rrd_userid",
+			"email",
+			"usuario",
+			"email",
+			"os-com",
+			"email",
+			"os-co",
+			"email2",
+			"os-co",
+			"FDCF",
+			"pruebas",
+			"dominio_mail",
+			"os-command",
+			"unix",
+			"en_name",
+			"email",
+			"<<",
+			"<",
+			"email",
+			"fecha",
+			"FECHA",
+			"insert",
+			"email_x",
+			"email2",
+			"run",
+			"FDCF",
+			"ln",
+			"fdcf",
+			"xxpout022.i",
+			"fdcf-12",
+			"temp_mstr",
+			"temp_det",
+			"artic",
+			"temp_det",
+			"artic",
+			"prep",
+			"vi-estandar",
+			"pro_char01",
+			"pro_log2",
+			"assign",
+			"update",
+			"v_arch_pdp",
+			"v_publi",
+			"prep",
+			"setup",
+			"vi-estandar",
+			"RMOD-1230",
+			"dia",
+			"fec_f",
+			"qty+3",
+			"qty+79",
+			"work2_schd",
+			"create work2",
+			"message",
+			"create work2_schd",
+			"create work_schd",
+			"work2_schd",
+			"schd_scr_pct",
+			"80",
+			"scrap",
+			"Cant",
+			"work_schd",
+			"bucketing",
+			"1258",
+			"sch_fab_qty",
+			"schd_discr_qty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"usrid",
+			"tta_wt",
+			"ttc_req",
+			"ttc_coberturas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/containers/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1492,
+								1492
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Theme - Cyanide/Cyanide/file_types/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 945.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "react-song.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sea",
+				"src\\components\\Search.js"
+			],
+			[
+				"",
+				"src\\index.js"
+			],
+			[
+				"promisem",
+				"src\\lib\\promiseMiddleware.js"
+			],
+			[
+				"index",
+				"src\\index.js"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"comp",
+				"compila2.p"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\d_castillejof\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\QAD.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
